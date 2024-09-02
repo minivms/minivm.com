@@ -1002,8 +1002,12 @@ select {
   height: auto;
 }
 
-.h-16 {
-  height: 4rem;
+.w-1\/2 {
+  width: 50%;
+}
+
+.w-28 {
+  width: 7rem;
 }
 
 .w-5 {
@@ -1016,14 +1020,6 @@ select {
 
 .w-screen {
   width: 100vw;
-}
-
-.w-16 {
-  width: 4rem;
-}
-
-.w-1\/2 {
-  width: 50%;
 }
 
 .max-w-2xl {
@@ -1044,10 +1040,6 @@ select {
 
 .max-w-xl {
   max-width: 36rem;
-}
-
-.max-w-md {
-  max-width: 28rem;
 }
 
 .max-w-xs {
